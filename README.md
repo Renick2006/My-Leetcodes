@@ -11,3 +11,6 @@ class Solution:
             hashset.add(n)
         return False
 ```
+### VALID ANAGRAM
+```
+```
