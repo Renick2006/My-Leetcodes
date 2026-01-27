@@ -1,4 +1,4 @@
-### My-Leetcodes
+# My-Leetcodes
 
 ## CONTAINS DUPLICATE
 ```
