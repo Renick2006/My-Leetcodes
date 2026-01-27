@@ -1,6 +1,6 @@
 # My-Leetcodes
 
-## CONTAINS DUPLICATE
+### 1. CONTAINS DUPLICATE
 ```
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
