@@ -11,7 +11,7 @@ class Solution:
             hashset.add(n)
         return False
 ```
-### VALID ANAGRAM
+### 2. VALID ANAGRAM
 ```
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
