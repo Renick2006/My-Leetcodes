@@ -41,7 +41,7 @@ class Solution:
         
 ```
 ### 3. VALID PALINDROME 
-#### Using Built-in Functions
+#### a) Using Built-in Functions:
 ```
 class Solution:
     def isPalindrome(self, s: str) -> bool:
@@ -53,6 +53,6 @@ class Solution:
             return True
         return False
 ```
-#### Without using Built-in Functions
+#### b) Without using Built-in Functions:
 ```
 ```
