@@ -40,3 +40,6 @@ class Solution:
             hashmap[n]=i
         
 ```
+### 3. VALID PALINDROME
+```
+```
