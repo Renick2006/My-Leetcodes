@@ -40,7 +40,7 @@ class Solution:
             hashmap[n]=i
         
 ```
-### 3. VALID PALINDROME 
+### 4. VALID PALINDROME 
 #### a) Using Built-in Functions:
 ```
 class Solution:
@@ -73,7 +73,7 @@ class Solution:
     def alphanum(self,c):
         return (ord('A')<=ord(c)<=ord('Z')or ord('a')<=ord(c)<=ord('z') or ord('0')<=ord(c)<=ord('9') )
 ```
-### 4. BEST TIME TO BUY AND SELL STOCK:
+### 5. BEST TIME TO BUY AND SELL STOCK:
 ```
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
@@ -90,6 +90,6 @@ class Solution:
         return maxP
         
 ```
-### 5. VALID PARENTHESES:
+### 6. VALID PARENTHESES:
 ```
 ```
